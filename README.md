@@ -42,7 +42,7 @@ You should see a response similar to:
   "name" : "instance",
   "cluster_name" : "docker-cluster",
   "version" : {
-    "number" : "8.5.0",
+    "number" : "8.17.3",
     "build_flavor" : "default",
     "build_type" : "docker"
   }
