@@ -2,9 +2,9 @@
 
 This guide provides step-by-step instructions on how to deploy Elasticsearch using Docker.
 
-##What is Elasticsearch?
+## What is Elasticsearch?
 
-Elasticsearch is a powerful, open-source search and analytics engine built on top of the Apache Lucene library. It provides a distributed, scalable, and high-performance platform for storing, searching, and analyzing data in real time.
+Elasticsearch is a open-source search and analytics engine built on top of the Apache Lucene library. It provides a distributed, scalable, and high-performance platform for storing, searching, and analyzing data in real time.
 
 ## Prerequisites
 
